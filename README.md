@@ -88,6 +88,8 @@ I'm a Data Analysis learner focused on working with data to discover meaningful 
   <li>📉 <a href="https://github.com/youssefyousri/Sales-Performance-Analysis-Business-Insights"><b>Sales Performance Analysis</b></a> — Sales trends, product performance, and business insights.</li>
   <li>🗄️ <a href="https://github.com/youssefyousri/Sales-Data-Exploration-with-SQL-Server"><b>SQL Server Sales Analysis</b></a> — SQL queries to analyze sales by category, region, and customer.</li>
 </ul>
+  <li>🗄️ <a href="https://github.com/youssefyousri/E-Commerce-Business-Performance.git"><b>E-Commerce-Business-Performance</b></a>Business performance, customer behavior, marketing, and operational insight</li>
+</ul>
 
 
 <p>
